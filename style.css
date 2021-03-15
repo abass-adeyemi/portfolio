@@ -232,6 +232,7 @@ button:active {
 	font-family: calibri;
 	font-weight: bold;
 }
+
 .box1 p:nth-child(2),
 .box2 p:nth-child(2),
 .box3 p:nth-child(2) {
